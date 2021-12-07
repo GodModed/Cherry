@@ -1,11 +1,11 @@
 Cherry
 =====
 
-**Website:** [cherry.minipractice.net]("Include Link Here") <br>
+**Website:** [cherry.minipractice.net](cherry.minipractice.net) <br>
 **Support:** [discord.gg/support](discord.gg/)
 ---
 Cherry helps your server defend against malicious attacks.
-##Features:
+## Features:
 
 <img src="https://settings" width="182" align="center">
 
@@ -20,11 +20,11 @@ Cherry helps your server defend against malicious attacks.
 
 ---
 
-##Commands:
+## Commands:
 
 <img src="https://commands" width="182" align="center">
 
-#####*Default prefix is being used for examples.*
+##### *Default prefix is being used for examples.*
 
 - ### Help
     - Opens a help menu which includes ***commands, settings, and the support server.***
@@ -55,5 +55,5 @@ Cherry helps your server defend against malicious attacks.
       =ping
       ```
  ---
-##TO-DO
-- ###Anti-Nuke
+## TO-DO
+- ### Anti-Nuke
