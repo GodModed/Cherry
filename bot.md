@@ -7,7 +7,7 @@ Cherry
 Cherry helps your server defend against malicious attacks.
 ## Features:
 
-<img src="https://settings" width="182" align="center">
+<a href="https://imgur.com/OA9C3Bn"><img src="https://i.imgur.com/OA9C3Bn.png" title="source: imgur.com" /></a>
 
 - *Profanity Filter*
 - *Anti Ghost Ping*
@@ -22,7 +22,7 @@ Cherry helps your server defend against malicious attacks.
 
 ## Commands:
 
-<img src="https://commands" width="182" align="center">
+<a href="https://imgur.com/OA9C3Bn"><img src="https://i.imgur.com/OA9C3Bn.png" title="source: imgur.com" /></a>
 
 ##### *Default prefix is being used for examples.*
 
