@@ -54,6 +54,11 @@ Cherry helps your server defend against malicious attacks.
     - ```py
       =ping
       ```
+- ### Anti-Alt
+    - Sets the minimum day for the setting Anti-Alt. You can enable this in settings
+    - ```py
+      =anti-alt [days]
+      ```
  ---
 ## TO-DO
 - ### Anti-Nuke
