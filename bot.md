@@ -1,7 +1,7 @@
 Cherry
 =====
 
-**Website:** [cherry.minipractice.net](cherry.minipractice.net) <br>
+**Website:** [minipractice.net](minipractice.net) <br>
 **Support:** [discord.gg/support](discord.gg/)
 ---
 Cherry helps your server defend against malicious attacks.
